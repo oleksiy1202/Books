@@ -4,7 +4,7 @@ let userBookList = []
 // document.getElementById("loadingMessage").style.display = "block"
 
 $(function () {
-    
+
     //  ``````````````````clock``````````````````
     function clock() {
         var date = new Date()
@@ -336,6 +336,7 @@ $(function () {
             bookID++
             $('#displayBooksAdmin').append(`
                 <p class="book" id="book-${index}">
+                <img width='40%'; src="${book.image}" alt="${book.title}"> <br>
                     ${bookID}.
                     <b>${book.title}</b> <br>
                     Автор: ${book.author}<br>
@@ -402,6 +403,7 @@ $(function () {
         arrBookList.forEach((book, index) => {
             $('#displayBooksUser').append(`
                 <p class="book" id="book-${index}">
+                    <img width='40%'; src="${book.image}" alt="${book.title}"> <br>
                     ${index + 1}:
                     <b>${book.title}</b> <br>
                     Author: ${book.author}<br>

@@ -162,6 +162,7 @@ body {
 }
 
 .book {
+    text-align: center;
     max-width: 550px;
     font-family: cursive;
     background-color: #fff;
