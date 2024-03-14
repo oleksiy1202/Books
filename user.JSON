@@ -1,0 +1,93 @@
+{
+    "users": [
+        {
+            "name": "Іван Петрович",
+            "email": "ivan_petrovich@example.com",
+            "registration_date": "2022-07-15",
+            "phone": "+380501234567",
+            "type": "user",
+            "password": "12021991"
+        },
+        {
+            "name": "Олена Сергіївна",
+            "email": "olena_sergiivna@example.com",
+            "registration_date": "2022-08-01",
+            "phone": "+380501234568",
+            "type": "user",
+            "password": "12021992"
+        },
+        {
+            "name": "Сергій Олександрович",
+            "email": "sergii_oleksandrovich@example.com",
+            "registration_date": "2022-09-10",
+            "phone": "+380501234569",
+            "type": "user",
+            "password": "12021993"
+        },
+        {
+            "name": "Юлія Миколаївна",
+            "email": "yulia_mykolaivna@example.com",
+            "username": "yulia_mykolaivna",
+            "registration_date": "2022-10-05",
+            "phone": "+380501234570",
+            "type": "user",
+            "password": "12021994"
+        },
+        {
+            "name": "Володимир Володимирович",
+            "email": "volodymyr_volodymyrovych@example.com",
+            "registration_date": "2022-11-11",
+            "phone": "+380501234571",
+            "type": "user",
+            "password": "12021995"
+        },
+        {
+            "name": "Анна Василівна",
+            "email": "anna_vasilivna@example.com",
+            "registration_date": "2022-12-02",
+            "phone": "+380501234572",
+            "type": "user",
+            "password": "12021996"
+        },
+        {
+            "name": "Микола Іванович",
+            "email": "mykola_ivanovich@example.com",
+            "registration_date": "2023-01-15",
+            "phone": "+380501234573",
+            "type": "user",
+            "password": "12021997"
+        },
+        {
+            "name": "Тетяна Петрівна",
+            "email": "tetiana_petrivna@example.com",
+            "registration_date": "2023-02-20",
+            "phone": "+380501234574",
+            "type": "user",
+            "password": "12021998"
+        },
+        {
+            "name": "Олексій Сергійович",
+            "email": "oleksii_sergiiovych@example.com",
+            "registration_date": "2023-03-25",
+            "phone": "+380501234575",
+            "type": "user",
+            "password": "12021999"
+        },
+        {
+            "name": "Марія Олександрівна",
+            "email": "maria_oleksandrivna@example.com",
+            "registration_date": "2023-04-30",
+            "phone": "+380501234576",
+            "type": "user",
+            "password": "12021910"
+        },
+        {
+            "name": "Олексій Кузьмінов",
+            "email": "kuzminov_oleksiy@example.com",
+            "registration_date": "2023-04-30",
+            "phone": "+380968668686",
+            "type": "admin",
+            "password": "12021990"
+        }
+    ]
+}

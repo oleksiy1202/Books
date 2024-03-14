@@ -1,0 +1,122 @@
+[
+    {
+        "title": "Вій",
+        "author": "Ніколай Гоголь",
+        "genre": "Хоррор",
+        "image": "url_to_image1.jpg"
+    },
+    {
+        "title": "Відьмак",
+        "author": "Анджей Сапковський",
+        "genre": "Фентезі",
+        "image": "url_to_image2.jpg"
+    },
+    {
+        "title": "1984",
+        "author": "Джордж Орвелл",
+        "genre": "Дистопія",
+        "image": "url_to_image3.jpg"
+    },
+    {
+        "title": "Хіба ревуть воли, як ясла повні?",
+        "author": "Панас Мирний",
+        "genre": "Реалізм",
+        "image": "url_to_image4.jpg"
+    },
+    {
+        "title": "Тигролови",
+        "author": "Іван Багряний",
+        "genre": "Історичний роман",
+        "image": "url_to_image5.jpg"
+    },
+    {
+        "title": "Три товариші",
+        "author": "Еріх Марія Ремарк",
+        "genre": "Роман",
+        "image": "url_to_image6.jpg"
+    },
+    {
+        "title": "Метелик",
+        "author": "Генрік Сенкевич",
+        "genre": "Пригодницький роман",
+        "image": "url_to_image7.jpg"
+    },
+    {
+        "title": "Шляхи першої зброї",
+        "author": "Олесь Гончар",
+        "genre": "Історичний роман",
+        "image": "url_to_image8.jpg"
+    },
+    {
+        "title": "Володар Перснів",
+        "author": "Дж. Р. Р. Толкін",
+        "genre": "Фентезі",
+        "image": "url_to_image9.jpg"
+    },
+    {
+        "title": "Дівчина з тату дракона",
+        "author": "Стьїг Ларссон",
+        "genre": "Детектив",
+        "image": "url_to_image10.jpg"
+    },
+    {
+        "title": "Захар Беркут",
+        "author": "Іван Франко",
+        "genre": "Історичний роман",
+        "image": "url_to_image11.jpg"
+    },
+    {
+        "title": "Містерії",
+        "author": "Кнут Гамсун",
+        "genre": "Модернізм",
+        "image": "url_to_image12.jpg"
+    },
+    {
+        "title": "Подорожник з Альфа Центаври",
+        "author": "Микола Носов",
+        "genre": "Наукова фантастика",
+        "image": "url_to_image13.jpg"
+    },
+    {
+        "title": "Таємниця острівця Пасхи",
+        "author": "Юрій Яновський",
+        "genre": "Пригодницький роман",
+        "image": "url_to_image14.jpg"
+    },
+    {
+        "title": "Мій старий",
+        "author": "Василь Симоненко",
+        "genre": "Поезія",
+        "image": "url_to_image15.jpg"
+    },
+    {
+        "title": "Українська мова за два тижні",
+        "author": "Олег Федорчук",
+        "genre": "Навчальна література",
+        "image": "url_to_image16.jpg"
+    },
+    {
+        "title": "Зона",
+        "author": "Сергій Довлатов",
+        "genre": "Біографічна проза",
+        "image": "url_to_image17.jpg"
+    },
+    {
+        "title": "Морський ангел",
+        "author": "Олександр Авраменко",
+        "genre": "Фантастика",
+        "image": "url_to_image18.jpg"
+    },
+    {
+        "title": "П'ять порошин",
+        "author": "Володимир Дрозд",
+        "genre": "Дитяча література",
+        "image": "url_to_image19.jpg"
+    },
+    {
+        "title": "Кримінальна хроніка",
+        "author": "Микола Трублаїні",
+        "genre": "Детектив",
+        "image": "url_to_image20.jpg"
+    }
+]

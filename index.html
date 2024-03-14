@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EXAMEN_2</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.13.2/themes/base/jquery-ui.min.css"
+        integrity="sha512-ELV+xyi8IhEApPS/pSj66+Jiw+sOT1Mqkzlh8ExXihe4zfqbWkxPRi8wptXIO9g73FSlhmquFlUOuMSoXz5IRw=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+
+    <!-- <div id="loadingMessage" style="display: none; margin: auto;">
+        <h1>Loading...</h1>
+    </div> -->
+
+    <div id="clock" class="styled-clock"></div>
+
+    <!-- ''''''''''''''''''''login-form'''''''''''''''''''' -->
+
+    <div class="formCenter">
+        <div class="login-form" id="form">
+            <h2>Вхід</h2>
+            <form>
+                <div class="form-group">
+                    <label for="username">Email користувача:</label>
+                    <input type="email" id="email" name="email" value="oleksii_sergiiovych@example.com" current-password
+                        required>
+                </div>
+                <div class="form-group">
+                    <label for="password">Пароль:</label>
+                    <input type="password" id="password" name="password" value="12021999" current-password required>
+                </div>
+                <div class="form-group">
+                    <button type="button" id="formBtn">Увійти</button>
+                </div>
+
+            </form>
+        </div>
+    </div><br>
+    <div style="text-align: center;">
+        <button class="signInButton" onclick="transitionBack()">На головну</button>
+    </div><br>
+
+    <script>
+        function transitionBack() {
+            window.location.href = './booksComponent/showBooks.html'
+        }
+    </script>
+
+    <div id="adminTabs">
+        <div id="tabs">
+            <div id="helloAdmin"></div>
+            <!-- <div id="visitUser"></div> -->
+            <ul>
+                <li><a href="#tabs-2">Робота з відвідувачами</a></li>
+                <li><a href="#tabs-1">Робота із книгами</a></li>
+            </ul>
+            <div id="tabs-1">
+                <div id="displayBooksAdmin" class="displayBooksAdminStyle">
+                    <input type="button" value="Додати книгу" id="addBook">
+                </div>
+            </div>
+            <div id="tabs-2">
+                <input type="button" value="Додати відвідувача" id="addVisitorsBtn">
+                <div id="visitorsList">
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="userTabs">
+
+        <div id="tabs">
+            <div id="helloUser"></div>
+            <h2 id="userBookList"></h2>
+            <ul>
+                <li><a href="#tabs-1">Робота із книгами</a></li>
+            </ul>
+            <div id="tabs-1">
+                <div id="displayBooksUser">
+                    <div id="test"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.0/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.13.2/jquery-ui.min.js"
+        integrity="sha512-57oZ/vW8ANMjR/KQ6Be9v/+/h6bq9/l3f0Oc7vn6qMqyhvPd1cvKBRWWpzu0QoneImqr2SkmO4MSqU+RpHom3Q=="
+        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="./script.js"></script>
+</body>
+
+</html>
