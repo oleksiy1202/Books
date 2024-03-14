@@ -75,15 +75,15 @@
         },
         {
             "name": "Марія Олександрівна",
-            "email": "maria_oleksandrivna@example.com",
+            "email": "oleksandrivna@example.com",
             "registration_date": "2023-04-30",
             "phone": "+380501234576",
             "type": "user",
-            "password": "12021910"
+            "password": "12021990"
         },
         {
             "name": "Олексій Кузьмінов",
-            "email": "kuzminov_oleksiy@example.com",
+            "email": "oleksiy@example.com",
             "registration_date": "2023-04-30",
             "phone": "+380968668686",
             "type": "admin",
